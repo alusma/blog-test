@@ -11,8 +11,10 @@
 3. cly
 
 拒绝合并无关历史 解决代码
+
     git pull origin master --allow-unrelated-histories
 
+绝对定位
 ```javascript
   h1{
       position:absolute;
