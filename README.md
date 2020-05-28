@@ -10,8 +10,8 @@
 2. ymt
 3. cly
 
-代码
-    <p>曾经有一条鱼掉进河里淹死了<p>
+拒绝合并无关历史 解决代码
+    git pull origin master --allow-unrelated-histories
 
 ```javascript
   h1{
